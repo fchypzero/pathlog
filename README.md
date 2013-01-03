@@ -5,7 +5,7 @@
 这是一个typecho的模板。整体风格模仿知名网站path，但细节作了许多改进以适合博客创作。
 最大的特点就是，只需要简单的替换背景就能得到多种不一样的风格。
 
-![模板预览图](http://page-attach.stor.sinaapp.com/3191005743.png "模板预览")|
+![模板预览图](http://page-attach.stor.sinaapp.com/3191005743.png "模板预览")
 
 ##预览及下载
 
