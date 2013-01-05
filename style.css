@@ -1,7 +1,7 @@
 /*
 author:cho
 site:http://pagecho.com
-Õâ¸öÖ÷ÌâµÄÏà¹Ø½éÉÜÔÚ£ºhttp://pagecho.com/theme-pathlog.html
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø½ï¿½ï¿½ï¿½ï¿½Ú£ï¿½http://pagecho.com/theme-pathlog.html
 */
 
 
@@ -32,7 +32,7 @@ clear:both;
 body {
 line-height:1.8;
 font-size:12px;
-font-family:"Microsoft YaHei","Î¢ÈíÑÅºÚ",tahoma,arial,simsun,"ËÎÌå";
+font-family:"Microsoft YaHei","Î¢ï¿½ï¿½ï¿½Åºï¿½",tahoma,arial,simsun,"ï¿½ï¿½ï¿½ï¿½";
 text-align:left;
 color:#333;
 margin:0;
@@ -421,36 +421,11 @@ padding:4px 11px;
 -o-transition:background .3s linear;
 transition:background .3s linear;
 }
-.post .con .tags ul{
-margin:0;
-}
-.tags{
-overflow:auto;
-margin:12px 0 0 0;
-}
-.post .tags ul li{
-float:left;
-list-style-type:none;
-margin-right:9px;
-padding:0 3px 0 0;
-background:url(http://x.libdd.com/farm1/a571d2/126d9c88/tags.png) no-repeat right -25px;
-}
-.post .tags ul li a{
-background:url(http://x.libdd.com/farm1/a571d2/126d9c88/tags.png) no-repeat 0 0px;
-float:left;
-height:19px;
-line-height:17px;
-color:#aaa;
-padding:0 4px 0 7px;
-white-space:nowrap;
-font-size:12px;
-}
 .bicolumn ul li {
 text-transform:uppercase;
 }
 
 .post p.read-more {
-background:url(images/icons.gif) 0 -315px no-repeat;
 padding-left:17px;
 font-size:12px;
 }
@@ -975,7 +950,7 @@ float:left;
 }
 
 .post .con,.lab,.comment-p {
-font:normal 14px/2 "Microsoft YaHei","Î¢ÈíÑÅºÚ",tahoma,arial,simsun,sans-serif;
+font:normal 14px/2 "Microsoft YaHei","Î¢ï¿½ï¿½ï¿½Åºï¿½",tahoma,arial,simsun,sans-serif;
 color:#4A4A4A;
 }
 
