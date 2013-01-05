@@ -44,3 +44,7 @@
 主题以GPLv2 General Public License发布，你可以免费使用，并按照你的意愿进行修改、移植。但恳请你保留模板最底部的作者链接，谢谢你的尊重。
 
 ENJOY。欢迎通过我的邮箱反馈问题。
+
+##pathlog在其他平台
+
+这是一个typecho的模板，感谢[LaoLuo](http://blog.11ri.net/ "LaoLuo")的移植，Emlog版已经放出：http://www.emlog.net/template/267
