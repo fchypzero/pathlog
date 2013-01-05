@@ -47,4 +47,4 @@ ENJOY。欢迎通过我的邮箱反馈问题。
 
 ##pathlog在其他平台
 
-这是一个typecho的模板，感谢[LaoLuo](http://blog.11ri.net/ "LaoLuo")的移植，Emlog版已经放出：http://www.emlog.net/template/267
+这是一个typecho的模板，但感谢[LaoLuo](http://blog.11ri.net/ "LaoLuo")的移植，pathlog已经可以在emlog这个优秀的博客平台上使用：http://www.emlog.net/template/267
