@@ -970,11 +970,3 @@ height:1px;
 text-indent:-9999px;
 margin:0 0 8px 0;
 }
-.mp3_player{
-border:1px solid #ddd;
-padding: 5px;
-margin-top:9px;
--moz-border-radius: 4px;
--webkit-border-radius: 4px;
-border-radius: 4px;
-}
