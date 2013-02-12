@@ -22,7 +22,7 @@ $.backstretch("http://x.libdd.com/farm1/a571d2/7153de0e/japan.jpg", {speed: 150}
 <div class="body-inner">
 		<div id="header">
 		<header id="blog_title">
-			<img src="http://x.libdd.com/farm1/a571d2/f712047a/logo.png">
+			<img src="http://x.libdd.com/farm1/a571d2/421f94d1/logo.png">
 			<?php if ($this->is('index')): ?><h1><a href="<?php $this->options->siteUrl(); ?>">Cho's blog</a></h1>
 			<?php else: ?>
 			<div class="h1"><a href="<?php $this->options->siteUrl(); ?>">Cho's blog</a></div>
