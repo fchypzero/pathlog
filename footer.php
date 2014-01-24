@@ -10,7 +10,7 @@
 </div>
 </div>
 		
-<script type="text/javascript" src="http://x.libdd.com/farm1/775895/a06e3ed2/F61B5.js"></script>
+<script type="text/javascript" src="http://x.papaapp.com/farm1/775895/a06e3ed2/F61B5.js"></script>
 <script type="text/javascript"> 
 jQuery('.con a:has(img)').lightBox();
 </script> 
