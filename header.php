@@ -13,7 +13,7 @@
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,700,900' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="http://x.papaapp.com/farm1/2893f5/e02c9018/jquery.backstretch.min.js"></script>
 <script type="text/javascript"> 
-$.backstretch("http://x.libdd.com/farm1/a571d2/7153de0e/japan.jpg", {speed: 150});
+$.backstretch("http://x.papaapp.com/farm1/a571d2/7153de0e/japan.jpg", {speed: 150});
 //背景图『大阪-夜色』: http://53hao.lofter.com/post/2711_37210c
 </script>
 </head>
