@@ -4,14 +4,14 @@
 <meta http-equiv="content-type" content="text/html; charset=<?php $this->options->charset(); ?>" />
 <title><?php $this->archiveTitle(' &raquo; ', '', ' - '); ?><?php $this->options->title(); ?></title>
 <!--[if lt IE 9]>
-<script src="http://x.libdd.com/farm1/1484d5/69431f1e/93D6C.js"></script>
+<script src="http://x.papaapp.com/farm1/1484d5/69431f1e/93D6C.js"></script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('style.css'); ?>" />
-<script type="text/javascript" src="http://t.libdd.com/js/libs/jquery/1.7.2/jquery.js"></script>
-<script src="http://x.libdd.com/farm1/a571d2/fba453c2/base.js"></script>
+<script type="text/javascript" src="http://t.papaapp.com/js/libs/jquery/1.7.2/jquery.js"></script>
+<script src="http://x.papaapp.com/farm1/a571d2/fba453c2/base.js"></script>
 <?php $this->header("generator=&template=&"); ?>
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,700,900' rel='stylesheet' type='text/css'>
-<script type="text/javascript" src="http://x.libdd.com/farm1/2893f5/e02c9018/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="http://x.papaapp.com/farm1/2893f5/e02c9018/jquery.backstretch.min.js"></script>
 <script type="text/javascript"> 
 $.backstretch("http://x.libdd.com/farm1/a571d2/7153de0e/japan.jpg", {speed: 150});
 //背景图『大阪-夜色』: http://53hao.lofter.com/post/2711_37210c
@@ -22,7 +22,7 @@ $.backstretch("http://x.libdd.com/farm1/a571d2/7153de0e/japan.jpg", {speed: 150}
 <div class="body-inner">
 		<div id="header">
 		<header id="blog_title">
-			<img src="http://x.libdd.com/farm1/a571d2/421f94d1/logo.png">
+			<img src="http://x.papaapp.com/farm1/a571d2/421f94d1/logo.png">
 			<?php if ($this->is('index')): ?><h1><a href="<?php $this->options->siteUrl(); ?>">Cho's blog</a></h1>
 			<?php else: ?>
 			<div class="h1"><a href="<?php $this->options->siteUrl(); ?>">Cho's blog</a></div>
