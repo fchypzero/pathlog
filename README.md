@@ -5,7 +5,7 @@
 这是一个typecho的模板。整体风格模仿知名网站path，但细节作了许多改进以适合博客创作。
 最大的特点就是，只需要简单的替换背景就能得到多种不一样的风格。
 
-![模板预览图](http://cqplew.bay.livefilestore.com/y2pXxDLJlFAZY9nKO1QygHFy-oBXY1YjlBjXANXuRU9i3I3rM5MCnryYTOMll-NmX0M169aIWmP9BSfITFeiyI_N-g8VABbCzG-T8HH7OWIITg/2012-12-30.png "模板预览")
+![模板预览图](https://ddydeg.by3302.livefilestore.com/y2pB6tDHJR8x2coxT7I83PQEO32trF_rjFP82RrDWiu6UX4QAnadw3RYE-ZXJx5tc0ZCvUoDigks1TlQ9hVAhFisYeT1BgEtQDrospq6rINdWI/p.png "模板预览")
 
 ##预览及下载
 
